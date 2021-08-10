@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test-react-site/static/css/main.f0fc9296.chunk.css",
+    "main.js": "/test-react-site/static/js/main.b01e0a81.chunk.js",
+    "main.js.map": "/test-react-site/static/js/main.b01e0a81.chunk.js.map",
+    "runtime-main.js": "/test-react-site/static/js/runtime-main.fc1a829b.js",
+    "runtime-main.js.map": "/test-react-site/static/js/runtime-main.fc1a829b.js.map",
+    "static/js/2.52220186.chunk.js": "/test-react-site/static/js/2.52220186.chunk.js",
+    "static/js/2.52220186.chunk.js.map": "/test-react-site/static/js/2.52220186.chunk.js.map",
+    "index.html": "/test-react-site/index.html",
+    "static/css/main.f0fc9296.chunk.css.map": "/test-react-site/static/css/main.f0fc9296.chunk.css.map",
+    "static/js/2.52220186.chunk.js.LICENSE.txt": "/test-react-site/static/js/2.52220186.chunk.js.LICENSE.txt",
+    "static/media/about-me-image.ce27dce2.png": "/test-react-site/static/media/about-me-image.ce27dce2.png",
+    "static/media/convo-chat-app.4f973f67.png": "/test-react-site/static/media/convo-chat-app.4f973f67.png",
+    "static/media/gitMusic.b8167985.PNG": "/test-react-site/static/media/gitMusic.b8167985.PNG",
+    "static/media/home-image-2.978113fb.png": "/test-react-site/static/media/home-image-2.978113fb.png",
+    "static/media/openweathermap.95eea008.PNG": "/test-react-site/static/media/openweathermap.95eea008.PNG",
+    "static/media/skill-react.4f1eb121.png": "/test-react-site/static/media/skill-react.4f1eb121.png",
+    "static/media/skill-sass.914ec671.png": "/test-react-site/static/media/skill-sass.914ec671.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1a829b.js",
+    "static/js/2.52220186.chunk.js",
+    "static/css/main.f0fc9296.chunk.css",
+    "static/js/main.b01e0a81.chunk.js"
+  ]
+}
